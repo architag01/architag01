@@ -39,7 +39,8 @@
   </a>
 </p>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=architag01&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 
 
