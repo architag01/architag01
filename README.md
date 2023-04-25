@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Archit Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+CPP+Programmer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+CPP+Programmer;Want%20To%20Become%20a%20Cloud%20Developer&center=true&width=600&height=80"></a>
 </p>
 <hr/>
 
@@ -19,6 +19,8 @@
 - 📫 How to reach me **asharchit@proton.me**
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <p align="center">
   <a>
