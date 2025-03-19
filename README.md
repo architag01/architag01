@@ -5,7 +5,7 @@
 <hr/>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!--   <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 </a>
 ## 💫 About Me:
 
