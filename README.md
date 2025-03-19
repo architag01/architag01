@@ -28,12 +28,12 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/architag01/architag01/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architag01&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/architag01/architag01/blob/main/images/right.png">
-  </a>
-</p>
+<!--   <a> -->
+<!--     <img height="150" width="150" src="https://github.com/architag01/architag01/blob/main/images/left.png"> -->
+<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architag01&theme=dark&hide_border=true"/> -->
+<!--     <img height="150" width="150" src="https://github.com/architag01/architag01/blob/main/images/right.png"> -->
+<!--   </a> -->
+<!-- </p> -->
 
 <p align="center">
   <a href="https://github.com/architag01">
